@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\OOP TEST\GSM\GSM\GSM\bin\Debug\GSM.exe.config
+D:\Visual Studio Projects\OOP TEST\GSM\GSM\GSM\bin\Debug\GSM.exe
+D:\Visual Studio Projects\OOP TEST\GSM\GSM\GSM\bin\Debug\GSM.pdb
+D:\Visual Studio Projects\OOP TEST\GSM\GSM\GSM\obj\Debug\GSM.exe
+D:\Visual Studio Projects\OOP TEST\GSM\GSM\GSM\obj\Debug\GSM.pdb
+D:\Visual Studio Projects\OOP TEST\GSM\GSM\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
